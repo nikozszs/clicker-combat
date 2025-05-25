@@ -1,1 +1,1 @@
-# cliker-combat
+# clicker-combat
