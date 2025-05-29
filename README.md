@@ -1,2 +1,1 @@
 # clicker-combat
-оооо
